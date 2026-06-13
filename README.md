@@ -40,8 +40,8 @@ Geometry checks (reflow, off-viewport, overlap, resize) are done with exact DOM 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/fermavec/lvaudit.git
-cd lvaudit
+git clone git@github.com:fermavec/wcag_low_vision_audit.git
+cd wcag_low_vision_audit
 ```
 
 ### 2. Create a virtual environment
